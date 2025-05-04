@@ -12,4 +12,4 @@ Spots is an image sharing site that allows users to upload and share photos and 
 
 This webpage is deployed to GitHub Pages
 
-- Deployment Link: https://github.com/Leannepip84/se_project_spots.git
+- Deployment Link: https://leannepip84.github.io/se_project_spots/
